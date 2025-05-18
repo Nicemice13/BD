@@ -102,7 +102,7 @@ def add_new_category():
 
 # Вызываем функции
 get_letters_in_range(1, 2)
-print("Поиск записей с ключевым словом 'письма':")
+print(f"Поиск записей с ключевым словом 'письма':")
 get_users_letters()
 get_letters_sorted_in_python()
 get_letters_sorted_in_subject()
